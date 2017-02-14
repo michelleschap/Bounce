@@ -1,0 +1,76 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\super\Desktop\Bounce_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\super\Desktop\Bounce_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\super\Desktop\Bounce_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.904671 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.522333 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.272232 ms (FindLiveObjects: 0.020038 ms CreateObjectMapping: 0.022482 ms MarkObjects: 0.219447 ms  DeleteObjects: 0.009774 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.215025 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.569390 ms (FindLiveObjects: 0.038611 ms CreateObjectMapping: 0.045453 ms MarkObjects: 0.473596 ms  DeleteObjects: 0.010752 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.154909 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.592850 ms (FindLiveObjects: 0.040077 ms CreateObjectMapping: 0.047408 ms MarkObjects: 0.493146 ms  DeleteObjects: 0.009774 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.232132 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.644168 ms (FindLiveObjects: 0.056694 ms CreateObjectMapping: 0.071357 ms MarkObjects: 0.503409 ms  DeleteObjects: 0.011241 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.159308 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.649056 ms (FindLiveObjects: 0.071845 ms CreateObjectMapping: 0.074289 ms MarkObjects: 0.489724 ms  DeleteObjects: 0.010752 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.216980 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.593339 ms (FindLiveObjects: 0.041543 ms CreateObjectMapping: 0.045942 ms MarkObjects: 0.494612 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.151977 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.647590 ms (FindLiveObjects: 0.055717 ms CreateObjectMapping: 0.071845 ms MarkObjects: 0.508297 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.186678 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.682291 ms (FindLiveObjects: 0.055717 ms CreateObjectMapping: 0.079177 ms MarkObjects: 0.534200 ms  DeleteObjects: 0.011241 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 107c -> priority: 1 
